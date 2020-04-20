@@ -1,5 +1,5 @@
 # Developing ETL by Python and Apache Cassandra Modeling
-## If you are here to see my project, go directly to ETL_cassandra.ipynb
+## For the project, go directly to ETL_cassandra.ipynb
 ******************************************************************
 
 
